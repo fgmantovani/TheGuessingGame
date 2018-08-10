@@ -1,0 +1,15 @@
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\bin\Debug\TheGuessingGame.exe.config
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\bin\Debug\TheGuessingGame.exe
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\bin\Debug\TheGuessingGame.pdb
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.csprojAssemblyReference.cache
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.Properties.Resources.resources
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.GenerateResource.cache
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.csproj.CoreCompileInputs.cache
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.exe
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.pdb
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.PopUp_Animal.resources
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.PopUp_Place.resources
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\bin\Debug\TheGuessingGame.exe.manifest
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\bin\Debug\TheGuessingGame.application
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.exe.manifest
+D:\Projetos\GuessingGame\TheGuessingGame\TheGuessingGame\obj\Debug\TheGuessingGame.application
